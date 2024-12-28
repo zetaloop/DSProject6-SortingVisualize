@@ -16,6 +16,8 @@
 - 自适应深色/浅色主题
 - 美观的现代化GUI界面
 
+<img width="601" alt="Snipaste_2024-12-28_14-23-45" src="https://github.com/user-attachments/assets/570da6fe-a037-4d75-a790-91f1156880bb" />
+
 ## 环境要求
 
 - Python 3.12+
