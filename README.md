@@ -1,4 +1,6 @@
-# 排序算法可视化演示程序
+# 排序算法可视化演示程序（课程作业）
+
+<img width="600" alt="Snipaste_2024-12-28_14-23-45" src="https://github.com/user-attachments/assets/570da6fe-a037-4d75-a790-91f1156880bb" />
 
 这是一个用Python开发的排序算法可视化演示程序，旨在帮助用户直观地理解和比较不同排序算法的工作原理和性能特点。
 
@@ -15,8 +17,6 @@
 - 可调节排序速度（支持慢速模式）
 - 自适应深色/浅色主题
 - 美观的现代化GUI界面
-
-<img width="601" alt="Snipaste_2024-12-28_14-23-45" src="https://github.com/user-attachments/assets/570da6fe-a037-4d75-a790-91f1156880bb" />
 
 ## 环境要求
 
